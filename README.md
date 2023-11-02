@@ -1,0 +1,1 @@
+# ha-xiaomi-temp-humidity
