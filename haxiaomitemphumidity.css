@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Seven Segment';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Seven Segment'), url('/local/haxiaomitemphumidity/SevenSegment.woff') format('woff');
+}
